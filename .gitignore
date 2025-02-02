@@ -1,0 +1,54 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+**/maven-*-plugin/
+dependency-reduced-pom.xml
+
+# Build directories
+build/
+out/
+bin/
+
+# IDE specific files
+## Eclipse
+.project
+.classpath
+.settings/
+.factorypath
+
+## IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+## NetBeans
+nbproject/
+nbactions.xml
+
+## VS Code
+.vscode/
+
+# Log files
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# Maven Wrapper (if not committed)
+.mvn/wrapper/maven-wrapper.jar
+
+# Other temporary files
+*.tmp
+*.bak
+*.swp
