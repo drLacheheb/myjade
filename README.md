@@ -13,7 +13,7 @@ This is a demo Maven project created to showcase **Jade**.
 
 Before you begin, ensure you have the following installed:
 
-- [Java JDK 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html](https://adoptium.net/temurin/releases/)
+- [Java JDK 17](https://adoptium.net/temurin/releases/)
 - [Apache Maven](https://maven.apache.org)
 
 ### Installation
